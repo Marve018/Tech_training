@@ -1,0 +1,1 @@
+This shows how the internet works,the protocol and architecture,with the role of various entities like Isps and DNS servers. Additionally, we explored the concepts of IP addresses, domain names, and the difference between IPv4 and IPv6.

@@ -1,0 +1,1 @@
+This is the hypertext transfer protocol for web communication.All the aspect of request response model was taught as well as the HTTPS methods(GET, POST),the headers and status codes.

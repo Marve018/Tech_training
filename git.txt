@@ -1,0 +1,1 @@
+git is a version control system,it helps us store our codes in a special database called repository.It helps to see the history of our projects,and allows others make changes in them.
